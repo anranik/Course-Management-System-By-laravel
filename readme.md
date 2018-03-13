@@ -9,4 +9,4 @@ It can be use to any collage or any university.
 ### login screen
 ![Login page frondend](https://raw.githubusercontent.com/anranik/Course-Management-System-By-laravel/master/login.png)
 ### Admin dashboard
-![Admin dashboard](https://raw.githubusercontent.com/anranik/Course-Management-System-By-laravel/master/admin-panel.png
+![Admin dashboard](https://raw.githubusercontent.com/anranik/Course-Management-System-By-laravel/master/admin-panel.png)
